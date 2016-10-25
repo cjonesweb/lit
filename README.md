@@ -9,3 +9,5 @@ lit is a Lightweight Image Tagger application that can be run locally via a rail
 * Ruby 2.3.0
 
 * Rails 5.0.0.1
+
+* Imagemagick
